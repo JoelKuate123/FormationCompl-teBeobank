@@ -37,3 +37,7 @@ Support formateur/                 Cahiers corrigés formateur (Jour1/2/3)
 ## Utilisation
 
 Ouvrir les notebooks (`.ipynb`) dans l'ordre du déroulé pédagogique. Chaque module cours a son cahier d'exercices participants et son corrigé formateur associé.
+
+## Contacter Joel
+[LinkedIn — Joel Parfait Kuate](https://www.linkedin.com/in/joelparfaitkuate/) 
+
